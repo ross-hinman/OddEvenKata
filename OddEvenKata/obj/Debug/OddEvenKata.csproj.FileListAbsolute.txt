@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\bin\Debug\OddEvenKata.exe.config
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\bin\Debug\OddEvenKata.exe
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\bin\Debug\OddEvenKata.pdb
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.exe
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.pdb
+C:\Users\GC Student\Source\Repos\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.csprojResolveAssemblyReference.cache
